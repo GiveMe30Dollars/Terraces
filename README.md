@@ -2,7 +2,9 @@
 For those who want to see how I achieved the effect shown in the Not Your Usual Perlin Flow Field on Reddit. Copying this code directly is not advisable.
 
 Requires ffmpeg and Video Export library to save videos. Program can be run without in Processing.
+
 Don't bother looking for runtime controls; there aren't any.
+
 Licensed under MIT license. Do whatever you want with this other than completely stealing it and passing it off as your own without modification.
 
 Here's what you should expect when running the code:
